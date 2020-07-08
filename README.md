@@ -60,6 +60,6 @@ app:certainText="JY-Kim"
 
 #### To set the specific word Color
 ```xml
-app:certainText="JY-Kim"
+app:certainTextColor="#ff0000"
 ```
 
