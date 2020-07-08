@@ -1,9 +1,9 @@
 # CertainColorTextView
-특정 단어 색변경하는 CustomView
+특정 단어 색변경하는 CustomView 입니다
 
 ### Gradle
 
-Edit `root/app/build.gradle` like below.
+Edit `YourProject/build.gradle` like below.
 
 #### JitPack
 ```gradle
@@ -16,3 +16,8 @@ allprojects {
 }
 ```
 
+Edit `app/build.gradle` like below.
+
+```gradle
+   implementation 'com.github.JY-Dev:CertainColorTextView:v1.0.1' 
+```
