@@ -5,9 +5,14 @@
 
 Edit `root/app/build.gradle` like below.
 
-#### Normal
+#### JitPack
 ```gradle
-dependencies {
-    implementation 'gun0912.ted:tedpermission:x.y.z'
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
 }
 ```
+
