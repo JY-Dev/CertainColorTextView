@@ -29,3 +29,7 @@ Edit `app/build.gradle` like below.
 ```gradle
    implementation 'com.github.JY-Dev:CertainColorTextView:v1.0.1' 
 ```
+
+#### How To Use
+
+
