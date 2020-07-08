@@ -58,3 +58,8 @@ Edit `app/build.gradle` like below.
 app:certainText="JY-Kim"
 ```
 
+#### To set the specific word Color
+```xml
+app:certainText="JY-Kim"
+```
+
