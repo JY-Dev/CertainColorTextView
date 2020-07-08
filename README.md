@@ -53,7 +53,7 @@ Edit `app/build.gradle` like below.
 </LinearLayout>
 ```
 
-## To set the specific word you choose 
+#### To set the specific word you choose 
 ```xml
 app:certainText="JY-Kim"
 ```
