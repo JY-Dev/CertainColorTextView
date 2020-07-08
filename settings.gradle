@@ -1,2 +1,3 @@
+include ':CertainColorTextView'
 rootProject.name='CertainColorTextView'
 include ':app'
