@@ -32,7 +32,7 @@ Edit `app/build.gradle` like below.
 
 ## How To Use
 
-## In Xml
+### In Xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -63,3 +63,4 @@ app:certainText="JY-Kim"
 app:certainTextColor="#ff0000"
 ```
 
+### In Code
