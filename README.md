@@ -52,3 +52,9 @@ Edit `app/build.gradle` like below.
 
 </LinearLayout>
 ```
+
+```xml
+app:certainText="JY-Kim"
+```
+app:certainText is to set The specific word you choose 
+
