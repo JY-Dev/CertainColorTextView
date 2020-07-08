@@ -1,6 +1,9 @@
 # CertainColorTextView
 Certain Word Change Color TextView CustomView.
 
+### Library Version
+Version v1.0.1
+
 ### Edit Gradle
 
 Edit `YourProject/build.gradle` like below.
