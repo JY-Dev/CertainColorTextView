@@ -64,3 +64,6 @@ app:certainTextColor="#ff0000"
 ```
 
 ### In Code
+```
+ certain_text.setCertainTv("Hi I'am JY-Kim")
+```
