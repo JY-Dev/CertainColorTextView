@@ -74,3 +74,6 @@ certain_text.setCertainTv("Hi I'am JY-Kim")
 ```
 certain_text.setCertainColor("#ff0000")
 ```
+
+##In application
+![](https://github.com/JY-Dev/CertainColorTextView/blob/master/sampleImg.jpg)
