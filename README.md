@@ -67,7 +67,7 @@ app:certainTextColor="#ff0000"
 
 #### To set the specific word you choose 
 ```
-certain_text.setCertainTv("Hi I'am JY-Kim")
+certain_text.setCertainTv("JY-Kim")
 ```
 
 #### To set the specific word Color
