@@ -32,4 +32,12 @@ Edit `app/build.gradle` like below.
 
 ## How To Use
 
-
+##In Xml
+```xml
+<jaeyoung.kim.certaincolortextview.CertainColorTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hi I'am JY-Kim"
+        app:certainText="JY-Kim"
+        app:certainTextColor="#ff0000"/>
+```
