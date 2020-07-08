@@ -1,5 +1,5 @@
 # CertainColorTextView
-특정 단어 색변경하는 CustomView 입니다
+Certain Word Change Color TextView CustomView 입니다
 
 ### Gradle
 
