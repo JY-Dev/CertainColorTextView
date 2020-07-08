@@ -1,7 +1,7 @@
 # CertainColorTextView
-Certain Word Change Color TextView CustomView 입니다
+Certain Word Change Color TextView CustomView.
 
-### Gradle
+### Edit Gradle
 
 Edit `YourProject/build.gradle` like below.
 
