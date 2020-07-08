@@ -1,5 +1,5 @@
 # CertainColorTextView
-Certain Word Change Color TextView CustomView.
+Certain Word Change Color TextView CustomView. In Android
 
 ### Library Version
 
