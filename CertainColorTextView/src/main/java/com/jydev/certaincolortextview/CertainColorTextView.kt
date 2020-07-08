@@ -28,7 +28,7 @@ class CertainColorTextView : androidx.appcompat.widget.AppCompatTextView {
         setView()
     }
 
-    fun setView() {
+    private fun setView() {
         val tv = this.text.toString()
             .replace(certainText, "<font color=\"$certainTextColor\">$certainText</font>")
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
