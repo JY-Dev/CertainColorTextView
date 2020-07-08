@@ -2,7 +2,12 @@
 Certain Word Change Color TextView CustomView.
 
 ### Library Version
+
 Version v1.0.1
+
+### minSdkVersion
+
+minSdkVersion 21
 
 ### Edit Gradle
 
